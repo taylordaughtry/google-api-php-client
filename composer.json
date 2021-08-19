@@ -40,7 +40,7 @@
         ]
     },
     "replace": {
-        "bitgandtter/google-api": "*",
+        "bitgandtter/google-api": "*"
     },
     "extra": {
         "branch-alias": {
